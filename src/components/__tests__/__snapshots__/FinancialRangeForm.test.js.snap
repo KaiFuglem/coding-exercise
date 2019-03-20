@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FinancialRangeForm component renders correctly 1`] = `
+<form>
+  <div>
+    <label
+      for="minimum-input"
+    >
+      Minimum:
+    </label>
+     
+    <input
+      autocomplete="off"
+      id="minimum-input"
+    />
+     
+    <!---->
+  </div>
+   
+  <div>
+    <label
+      for="maximum-input"
+    >
+      Maximum:
+    </label>
+     
+    <input
+      autocomplete="off"
+      id="maximum-input"
+    />
+     
+    <!---->
+  </div>
+   
+  <div>
+    <button
+      type="submit"
+    >
+      Submit
+    </button>
+  </div>
+   
+  <div
+    class="validation message"
+  >
+    
+    
+  
+  </div>
+   
+  <!---->
+</form>
+`;
